@@ -24,7 +24,7 @@ No additional dependencies required
 
 Clone Repository
 
-git clone https://github.com/yourusername/x86-disassembler.git
+git clone https://github.com/renaoch/x86-disassembler.git
 cd x86-disassembler
 
 Usage
